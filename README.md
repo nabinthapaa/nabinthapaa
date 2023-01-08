@@ -25,8 +25,13 @@ Here are some ideas to get you started:
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=eragon580101&count_private=true&theme=radical&hide_border=true&border_radius=10&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eragon580101&langs_count=4&theme=radical&hide_border=true&border_radius=10)]()
+<!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eragon580101&theme=radical&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 [![GitHub Streak](https://github-readme-stats.vercel.app/api?username=eragon580101&theme=radical&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+-->
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=eragon580101&theme=radical&hide_border=true&border_radius=10"/>&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=eragon580101&theme=radical&hide_border=true&border_radius=10"/>
+</P>
 
 
 <h3 align="left">Known Languages and Tools:</h3>
