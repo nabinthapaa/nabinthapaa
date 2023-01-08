@@ -29,8 +29,7 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eragon580101&theme=radical&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 [![GitHub Streak](https://github-readme-stats.vercel.app/api?username=eragon580101&theme=radical&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 -->
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=eragon580101&theme=radical&hide_border=true&border_radius=10"/>&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=eragon580101&theme=radical&hide_border=true&border_radius=10"/>
+<p>&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=eragon580101&theme=radical&hide_border=true&border_radius=10"/>
 </P>
 
 
