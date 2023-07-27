@@ -36,15 +36,29 @@ Here are some ideas to get you started:
 ### Known Languages and Tools:
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en/)
+
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.cprogramming.com/)
+
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html5.org/)
+
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![SCSS](https://img.shields.io/badge/scss-%23F05033.svg?style=for-the-badge&logo=sass&logoColor=pink&color=black)](https://www.sass-lang.com)
+[![Tailwind](https://img.shields.io/badge/Tailwind-%23F05033.svg?style=for-the-badge&logo=tailwindcss&logoColor=blue&color=black)](https://www.tailwindcss.com)
+
+[![TypeScript](https://img.shields.io/badge/typescript-%23F05033.svg?style=for-the-badge&logo=typescript&logoColor=white&color=blue)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
+[![Python](https://img.shields.io/badge/python-%23F05033.svg?style=for-the-badge&logo=python&logoColor=yellow&color=black)](https://www.python.org/)
+
+[![React](https://img.shields.io/badge/react-%23F05033.svg?style=for-the-badge&logo=react&logoColor=blue&color=black)](https://www.react.dev/)
+
+
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/Mongo-%23F05033.svg?style=for-the-badge&logo=mongodb&logoColor=green&color=black)](https://www.mongodb.com)
+
 [![Figma](https://img.shields.io/badge/Figma-CC6699?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
-[![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
+[![Netlify](https://img.shields.io/badge/netlify-%23F05033.svg?style=for-the-badge&logo=netlify&logoColor=white&color=lightgreen)](https://www.netlify.com/)
+[![Vercel](https://img.shields.io/badge/vercel-%23F05033.svg?style=for-the-badge&logo=vercel&logoColor=white&color=black)](http://www.vercel.com)
 [![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+[![Postman](https://img.shields.io/badge/postman-%23F05033.svg?style=for-the-badge&logo=Postman&logoColor=orange&color=black)](https://www.postman.com)
 
