@@ -1,17 +1,22 @@
-## Hi there 👋
-### My name is  **Nabin Thapa**.
+## Hi there 🙇
+### My name is  **Nabin Thapa**. I am from Nepal.
 I am currently learning Next.js and working on a real time chat app using Next Js.<br>
 You can find my progress here:<br>
 [![Chat App](https://img.shields.io/badge/Chat%20App-%23F05033.svg?style=for-the-badge&logo=github&logoColor=white&color=black)](https://github.com/Eragon580101/chat-app)
 
-### My Github Statistics
-
+### My Github Statistics:<br>
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=eragon580101&count_private=true&theme=radical&hide_border=true&border_radius=10&showicons=true)]()
 [![Github Streak](https://github-readme-streak-stats.herokuapp.com?user=eragon580101&theme=radical&hide_border=true&border_radius=10)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eragon580101&langs_count=4&theme=radical&hide_border=true&border_radius=10)]()
 
-### Languages and Tools:
+### Current Working Enviroment: 
+[![Windows](https://img.shields.io/badge/Windows-%23F05033.svg?style=for-the-badge&logo=windows&logoColor=blue&color=black)]()
 
+#### My devices:
+  + One plus 7T
+  * Lenovo Legion 5 Pro (2021)
+
+### Languages and Tools:
 #### Languages:
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=orange&color=black)](https://html5.org/)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=blue&color=black)](https://www.w3.org/Style/CSS/Overview.en.html)
@@ -44,4 +49,3 @@ You can find my progress here:<br>
 [![Postman](https://img.shields.io/badge/postman-%23F05033.svg?style=for-the-badge&logo=Postman&logoColor=orange&color=black)](https://www.postman.com)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=orange&color=black)](https://git-scm.com/)
 [![Linux](https://img.shields.io/badge/linux-%23F05033.svg?style=for-the-badge&logo=linux&logoColor=yellow&color=black)](https://www.linux.org/)
-
