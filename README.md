@@ -1,19 +1,10 @@
 ## Hi there 🙇
 ### My name is  **Nabin Thapa**. I am from Nepal.
-I am currently learning Next.js and working on a real time chat app using Next Js.<br>
-You can find my progress here:<br>
-[![Chat App](https://img.shields.io/badge/Chat%20App-%23F05033.svg?style=for-the-badge&logo=github&logoColor=white&color=black)](https://github.com/Eragon580101/chat-app)
 
 ### Find me here
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23F05033.svg?style=for-the-badge&logo=about.me&logoColor=blue&color=black)](https://nabin-thapa.com.np/)
 [![linkedin](https://img.shields.io/badge/linkedin-%23F05033.svg?style=for-the-badge&logo=linkedin&logoColor=blue&color=black)](https://www.linkedin.com/in/nabinthapa/)
 [![Discord](https://img.shields.io/badge/discord-%23F05033.svg?style=for-the-badge&logo=discord&logoColor=lightblue&color=black)](https://www.discordapp.com/users/484736576241270789)
-
-
-### My Github Statistics:<br>
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=eragon580101&count_private=true&theme=radical&hide_border=true&border_radius=10&showicons=true)]()
-[![Github Streak](https://github-readme-streak-stats.herokuapp.com?user=eragon580101&theme=radical&hide_border=true&border_radius=10)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eragon580101&langs_count=4&theme=radical&hide_border=true&border_radius=10)]()
 
 #### Current Working Enviroment       
 [![Windows](https://img.shields.io/badge/Windows-%23F05033.svg?style=for-the-badge&logo=windows&logoColor=blue&color=black)]()
