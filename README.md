@@ -7,7 +7,7 @@
 [![Discord](https://img.shields.io/badge/discord-%23F05033.svg?style=for-the-badge&logo=discord&logoColor=lightblue&color=black)](https://www.discordapp.com/users/484736576241270789)
 
 #### Current Working Enviroment       
-[![Windows](https://img.shields.io/badge/Windows-%23F05033.svg?style=for-the-badge&logo=windows&logoColor=blue&color=black)]()
+[![LInux](https://img.shields.io/badge/Linux-%23F05033.svg?style=for-the-badge&logo=Linux&logoColor=blue&color=black)]()
 
 #### Devices            
 + [![One plus 7T](https://img.shields.io/badge/Oneplus%207t-%23F05033.svg?style=for-the-badge&logo=oneplus&logoColor=white&color=black)](https://www.oneplus.com/us/7t)
