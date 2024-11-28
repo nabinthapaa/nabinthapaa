@@ -43,11 +43,10 @@
 [![Figma](https://img.shields.io/badge/Figma-CC6699?style=for-the-badge&logo=figma&logoColor=white&color=black)](https://www.figma.com/)
 [![Netlify](https://img.shields.io/badge/netlify-%23F05033.svg?style=for-the-badge&logo=netlify&logoColor=green&color=black)](https://www.netlify.com/)
 [![Vercel](https://img.shields.io/badge/vercel-%23F05033.svg?style=for-the-badge&logo=vercel&logoColor=white&color=black)](http://www.vercel.com)
-[![Vscode](https://img.shields.io/badge/VSCode-%23F05033.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue&color=black)](https://code.visualstudio.com/)
 [![Postman](https://img.shields.io/badge/postman-%23F05033.svg?style=for-the-badge&logo=Postman&logoColor=orange&color=black)](https://www.postman.com)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=orange&color=black)](https://git-scm.com/)
-[![Linux](https://img.shields.io/badge/linux-%23F05033.svg?style=for-the-badge&logo=linux&logoColor=yellow&color=black)](https://www.linux.org/)
-[![Firebase](https://img.shields.io/badge/firebase-%23F05033.svg?style=for-the-badge&logo=firebase&logoColor=yellow&color=black)](https://firebase.google.com/)
-[![NPM](https://img.shields.io/badge/npm-%23F05033.svg?style=for-the-badge&logo=npm&logoColor=red&color=black)](https://www.npmjs.com/)
-[![Yarn](https://img.shields.io/badge/yarn-%23F05033.svg?style=for-the-badge&logo=yarn&logoColor=blue&color=black)](https://yarnpkg.com/)
+
+![nabinthapaa's Stats](https://github-readme-stats.vercel.app/api?username=nabinthapaa&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![nabinthapaa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nabinthapaa&theme=vue-dark&hide_border=true)
+![nabinthapaa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabinthapaa&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
