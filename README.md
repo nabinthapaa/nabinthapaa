@@ -25,6 +25,7 @@
 [![Java](https://img.shields.io/badge/Java-%23F05033.svg?style=for-the-badge&logo=openjdk&logoColor=white&color=black)](java.com)
 [![C](https://img.shields.io/badge/C-%23F05033.svg?style=for-the-badge&logo=C&logoColor=white&color=black)](https://www.w3schools.com/c/c_intro.php)
 [![C++](https://img.shields.io/badge/C++-%23F05033.svg?style=for-the-badge&logo=c%2B%2B&logoColor=blue&color=black)](https://www.w3schools.com/cpp/default.asp)
+[![Go](https://img.shields.io/badge/go-%23F05033.svg?style=for-the-badge&logo=go&logoColor=blue&color=black)](https://go.dev)
 
 #### Library and Frameworks
 [![SCSS](https://img.shields.io/badge/scss-%23F05033.svg?style=for-the-badge&logo=sass&logoColor=pink&color=black)](https://www.sass-lang.com)
@@ -45,8 +46,8 @@
 [![Vercel](https://img.shields.io/badge/vercel-%23F05033.svg?style=for-the-badge&logo=vercel&logoColor=white&color=black)](http://www.vercel.com)
 [![Postman](https://img.shields.io/badge/postman-%23F05033.svg?style=for-the-badge&logo=Postman&logoColor=orange&color=black)](https://www.postman.com)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=orange&color=black)](https://git-scm.com/)
+[![Docker](img.shields.io/badge/docker-%23F05033.svg?style=for-the-badge&logo=docker&logoColor=orange&color=black)](https://docker.com/)
 
-![nabinthapaa's Stats](https://github-readme-stats.vercel.app/api?username=nabinthapaa&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![nabinthapaa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nabinthapaa&theme=vue-dark&hide_border=true)
-![nabinthapaa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabinthapaa&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
+![nabinthapaa's Stats](https://github-readme-stats.vercel.app/api?username=nabinthapaa&theme=react&show_icons=true&hide_border=true&count_private=true)
+![nabinthapaa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nabinthapaa&theme=react&hide_border=true)
+![nabinthapaa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabinthapaa&theme=react&show_icons=true&hide_border=true&layout=compact)
