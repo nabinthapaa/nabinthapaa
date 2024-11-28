@@ -46,7 +46,7 @@
 [![Vercel](https://img.shields.io/badge/vercel-%23F05033.svg?style=for-the-badge&logo=vercel&logoColor=white&color=black)](http://www.vercel.com)
 [![Postman](https://img.shields.io/badge/postman-%23F05033.svg?style=for-the-badge&logo=Postman&logoColor=orange&color=black)](https://www.postman.com)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=orange&color=black)](https://git-scm.com/)
-[![Docker](img.shields.io/badge/docker-%23F05033.svg?style=for-the-badge&logo=docker&logoColor=orange&color=black)](https://docker.com/)
+[![Docker](https://img.shields.io/badge/docker-%23F05033.svg?style=for-the-badge&logo=docker&logoColor=orange&color=black)](https://docker.com/)
 
 ![nabinthapaa's Stats](https://github-readme-stats.vercel.app/api?username=nabinthapaa&theme=react&show_icons=true&hide_border=true&count_private=true)
 ![nabinthapaa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nabinthapaa&theme=react&hide_border=true)
