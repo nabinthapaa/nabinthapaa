@@ -1,6 +1,4 @@
-<!-- Profile README for nabinthapaa -->
-
-<h1 align="center">Hi, I'm Nabin Thapa 👋. From 🇳🇵</h1>
+<h1 align="center">Hi, I'm Nabin Thapa 👋 🇳🇵</h1>
 <p align="center">
   <b>Software Engineer | React, Node.js, C/C++ | Learning Rust & Go</b>
 </p>
@@ -19,9 +17,13 @@
 
 ## 🌟 Highlighted Project
 
-[![wifi-app](https://github-readme-stats.vercel.app/api/pin/?username=nabinthapaa&repo=wifi-app)](https://github.com/nabinthapaa/wifi-app)
+[![wifi-app](https://github-readme-stats.vercel.app/api/pin/?username=nabinthapaa&repo=wifi-app&theme=dark)](https://github.com/nabinthapaa/wifi-app)
 
 A full-stack WiFi management app—check it out [here](https://github.com/nabinthapaa/wifi-app)!
+
+**Core Technologies Used:**  
+![TypeScript](https://img.shields.io/badge/-React-3178C6?style=flat&logo=react&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
 
 ---
 
@@ -36,6 +38,7 @@ A full-stack WiFi management app—check it out [here](https://github.com/nabint
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 ---
 
